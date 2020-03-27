@@ -1,6 +1,7 @@
 ## my-first-github-repo ##
 
-![CI-CD](https://github.com/tepli/my-first-github-repo/workflows/CI/badge.svg?branch=master)
-![License-MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![CI](https://github.com/tepli/my-first-github-repo/workflows/CI/badge.svg?branch=master)
+![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![MIT](https://img.shields.io/badge/License-MIT-blue1.svg)
 
 * REPO to practice working with GitHub
